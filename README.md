@@ -1,5 +1,5 @@
 # markdown-previewer
-A markdown previewer and editor build for a freecodecamp project
+A markdown previewer and editor build for a freecodecamp project.
 
 This is the [link] to the freecodecamp project.
 
