@@ -9,4 +9,4 @@ see the [link]
 - to run the project from local node.js installation, execute `yarn start` in terminal
 - to build a new production version, execute `yarn build` in a terminal
 
-[buil]: https://github.com/ilixandr/markdown-previewer/tree/master/build
+[build]: https://github.com/ilixandr/markdown-previewer/tree/master/build
