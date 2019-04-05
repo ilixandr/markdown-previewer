@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+h1 {
+  text-align: center;
+}
+#editor-toolbar {
+  background-color: #26282c;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  border: 1px solid black;
+}
+.fab {
+  color: #FFF;
+  padding: 0 5px;
+}
+
+#editor {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  resize: vertical;
+  outline: none;
+  min-height: 250px;
+  padding: 10px;
+  border-radius: 1px;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+}
+.editor-toolbar-min {
+  width: 50vw;
+  
+}
+.editor-toolbar-max {
+  width: 75vw;
+}
+#preview {
+  min-height:450px;
+  margin: 0 auto;
+  resize: vertical;
+  outline: none;
+  padding: 10px;
+  border-radius: 1px;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+}
+#preview-toolbar {
+  background-color: #26282c;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  border: 1px solid black;
+}
+.preview-toolbar-min {
+  width: 80vw;
+}
+.preview-toolbar-max {
+  width: 100vw;
+}
+.spacer {
+  min-height: 20px;
+}
+code.language-javascript {
+  color: yellow;
+}
+img {
+  height: 100px;
+  width: 100px; 
+}
